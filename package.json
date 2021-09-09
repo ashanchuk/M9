@@ -1,0 +1,29 @@
+{
+  "name": "m9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor ./test/config/protractor.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashanchuk/M9.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "protractor": "^7.0.0",
+    "winston": "^3.3.3",
+    "winston-daily-rotate-file": "^4.5.5"
+  },
+  "bugs": {
+    "url": "https://github.com/ashanchuk/M9/issues"
+  },
+  "homepage": "https://github.com/ashanchuk/M9#readme",
+  "dependencies": {
+    "protractor": "^7.0.0",
+    "winston": "^3.3.3",
+    "winston-daily-rotate-file": "^4.5.5"
+  }
+}
